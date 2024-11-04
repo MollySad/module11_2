@@ -11,7 +11,7 @@ for i in map_colors:
         surf.fill((i // 2, i // 2, i // 2))
         screen.blit(surf, (i, j))
 
-r = 0
+r = 1
 g = 0
 b = 255
 circle_start_size = 1
